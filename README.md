@@ -27,7 +27,6 @@ npm run test
 
 👤 **Pryvalov Bogdan**
 
-* Website: 
 * Github: [@pryvalovbogdan](https://github.com/pryvalovbogdan)
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/bogdan-pryvalov-033461195\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/bogdan-pryvalov-033461195\/)
 
